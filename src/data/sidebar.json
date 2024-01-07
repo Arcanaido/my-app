@@ -2,12 +2,12 @@
     {
         "title": "General",
         "icon": "bi-gear-fill",
-        "path": "/"
+        "path": "/my-site"
         },
 
     {
         "title": "Regra de Três",
-        "path": "/regra-de-Tres"
+        "path": "/my-site/regra-de-Tres"
     }
     
 ]
